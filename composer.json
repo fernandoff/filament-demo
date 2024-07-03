@@ -1,10 +1,10 @@
 {
-    "name": "laravel/laravel",
+    "name": "database/database.sqlite/laravel",
     "type": "project",
     "description": "The Laravel Framework.",
     "keywords": [
         "framework",
-        "laravel"
+        "database/database.sqlite"
     ],
     "license": "MIT",
     "require": {
